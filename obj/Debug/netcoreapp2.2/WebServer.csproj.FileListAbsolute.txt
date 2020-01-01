@@ -1,0 +1,14 @@
+/home/arsen/Projects/Workspace_dotnet/WebServer/bin/Debug/netcoreapp2.2/WebServer.deps.json
+/home/arsen/Projects/Workspace_dotnet/WebServer/bin/Debug/netcoreapp2.2/WebServer.runtimeconfig.json
+/home/arsen/Projects/Workspace_dotnet/WebServer/bin/Debug/netcoreapp2.2/WebServer.runtimeconfig.dev.json
+/home/arsen/Projects/Workspace_dotnet/WebServer/bin/Debug/netcoreapp2.2/WebServer.dll
+/home/arsen/Projects/Workspace_dotnet/WebServer/bin/Debug/netcoreapp2.2/WebServer.pdb
+/home/arsen/Projects/Workspace_dotnet/WebServer/obj/Debug/netcoreapp2.2/WebServer.csprojAssemblyReference.cache
+/home/arsen/Projects/Workspace_dotnet/WebServer/obj/Debug/netcoreapp2.2/WebServer.csproj.CoreCompileInputs.cache
+/home/arsen/Projects/Workspace_dotnet/WebServer/obj/Debug/netcoreapp2.2/WebServer.RazorAssemblyInfo.cache
+/home/arsen/Projects/Workspace_dotnet/WebServer/obj/Debug/netcoreapp2.2/WebServer.RazorAssemblyInfo.cs
+/home/arsen/Projects/Workspace_dotnet/WebServer/obj/Debug/netcoreapp2.2/WebServer.AssemblyInfoInputs.cache
+/home/arsen/Projects/Workspace_dotnet/WebServer/obj/Debug/netcoreapp2.2/WebServer.AssemblyInfo.cs
+/home/arsen/Projects/Workspace_dotnet/WebServer/obj/Debug/netcoreapp2.2/WebServer.RazorTargetAssemblyInfo.cache
+/home/arsen/Projects/Workspace_dotnet/WebServer/obj/Debug/netcoreapp2.2/WebServer.dll
+/home/arsen/Projects/Workspace_dotnet/WebServer/obj/Debug/netcoreapp2.2/WebServer.pdb
