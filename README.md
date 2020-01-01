@@ -1,10 +1,6 @@
 # ASP.NET REST API
-
-<ol>
-  <li>Clone Repo</li>
-  <li>Run Command</li>
-</ol>
-Command`
+## You must have dotnet cli for run this app
+Commands`
 
 ```
 dotnet run
